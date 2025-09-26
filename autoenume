@@ -1,9 +1,0 @@
-autoenume/autoenum.py        # main script
-
-autoenume/requirements.txt   # dependencies (if any)
-
-autoenume/README.md          # usage, examples
-
-autoenume/reports/           # sample output reports
-
-autoenume/tests/             # (optional later) test cases
